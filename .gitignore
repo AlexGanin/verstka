@@ -2,7 +2,7 @@
 /#src/fonts
 /#src/img
 /#src/js
-/#src/scss
+/fls_start_gulp_patrones
 # dependencies
 /node_modules
 /.pnp
